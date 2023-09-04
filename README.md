@@ -5,7 +5,7 @@ Project title : Sales Data Analytics
 
 I've just completed my very first project: a dynamic Sales Data Analytics Dashboard! 📈
 
-Using powerful tools like MS Excel and Power BI, I've delved deep into our sales data to uncover valuable insights. Here are a few highlights:
+Using powerful tools like MS Excel and Power BI, I've delved deep into our sales data to uncover valuable insights.Purpose: Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. Here are a few highlights:
 
 🌟 **Top Product:** The MacBook Pro laptop takes the crown as our best-selling product. 🏆
 
